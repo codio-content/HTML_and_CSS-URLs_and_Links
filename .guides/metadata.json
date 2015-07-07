@@ -1,0 +1,54 @@
+{
+ "sections": [
+  {
+   "id": "73852001-2636-3802-a75f-f43afaf7a352",
+   "title": "Adding a new html page",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-a-new-html-page-7385.md"
+  },
+  {
+   "id": "de471970-cb47-c981-135a-241c315b2109",
+   "title": "Adding a link",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-a-link-de47.md"
+  },
+  {
+   "id": "6e35156d-2128-3515-9625-b0804ea613",
+   "title": "How to reach our images ?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-to-reach-our-images---6e35.md"
+  },
+  {
+   "id": "d14baec4-e9cc-6dbc-cf1a-375c2a82df17",
+   "title": "More complicated references",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-complicated-references-d14b.md"
+  },
+  {
+   "id": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
+   "title": "Images from the web",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Images-from-the-web-6396.md"
+  },
+  {
+   "id": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
+   "title": "Final challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Final-challenge-ef2b.md"
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": []
+}
