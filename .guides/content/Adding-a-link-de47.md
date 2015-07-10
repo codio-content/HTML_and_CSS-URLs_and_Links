@@ -13,6 +13,8 @@ A link is a connection from one Web resource to another.
 
 A link has two ends -- called anchors -- and a direction. The link starts at the "source" anchor and points to the "destination" anchor, which may be any Web resource (e.g., an image, a video clip, a sound bite, a program, an HTML document, an element within an HTML document, etc.)
 
+![](.guides/img/ALINK.png)
+
 # Adding a link
 
 Let's add a link from our `index.html` to our `page2.html`

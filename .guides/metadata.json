@@ -35,7 +35,7 @@
    ],
    "layout": "3-cell-tree",
    "path": [
-    "/01-adding-html-page"
+    "01-adding-html-page"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Adding-a-new-html-page-7385.md"
@@ -103,7 +103,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-8-4eb8.md"
+   "content-file": ".guides/content/Tags-summary-4eb8.md"
   }
  ],
  "theme": "charcoal",
