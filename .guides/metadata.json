@@ -59,8 +59,13 @@
   {
    "id": "e31417a2-b215-4986-6c92-a6f61f92aaab",
    "title": "Addressing resources on the web",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Addressing-resources-on-the-web-e314.md"
@@ -70,22 +75,29 @@
    "title": "Images from the web",
    "files": [],
    "layout": "",
-   "path": [],
+   "path": [
+    "/image_galery"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Images-from-the-web-6396.md"
   },
   {
    "id": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
    "title": "Final challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "/nav/"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Final-challenge-ef2b.md"
   }
  ],
  "theme": "charcoal",
- "scripts": [
-  "https://code.jquery.com/jquery-1.11.3.min.js",
-  "/.guides/webdevcourse.js"
- ]
+ "scripts": []
 }

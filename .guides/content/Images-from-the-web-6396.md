@@ -24,7 +24,7 @@ Now that you now how to get the code for a picture from flickr ... Let's do a li
 # Flickr Gallery
 First let's create a page called `photos.html` using the "html5" template from Codio.
 
-In the body of the page add a `<h1>` with the text "My  photo gallery".
+In the body of the page add a `<h1>` with the text "My photo gallery".
 
 Now select 3 pictures from Flickr that you like and get the code for each of those. 
 
