@@ -1,3 +1,5 @@
+# How to address resources on the web ?
+
 There are 2 ways of describing where a ressources is on the web, and it depends if the resource your are trying to access is located on the same domain as the page in which it is used.
 
 |||definition
@@ -51,6 +53,8 @@ Create the necessary folders and files so that we view the following html page:
 </html>
 ```
 
+{Check it!! | custom}(test-bui)
+
 |||
 
 What we have just seen with full urls is the first way of referencing things on the web. It is called "absolute"
@@ -59,9 +63,9 @@ It works very well but there are problems with it. If we use in our code all the
 
 In order to avoid that and to have less repetitions you can skip the protocol and hostname parts of urls and just use the subdirectories and file names.
 
-So for example for the pic 2.jpg
+So for example for the picture `2.jpg`
 
-I can write :
+We could write :
 ```html
 <img src="https://artist-chef.codio.io/images/2.jpg">
 ```
@@ -70,9 +74,5 @@ Or :
 <img src="/images/2.jpg">
 ```
 
-Both images will load, the difference between the last two is subtile and causes many headaches to the newcomers :
-
-In the firs case ...
-
-In the second case ...
+Both will work, and the second notation basically omits the protocol and hostname, considering we are targetting a resource
 

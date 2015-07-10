@@ -58,24 +58,18 @@
   },
   {
    "id": "e31417a2-b215-4986-6c92-a6f61f92aaab",
-   "title": "Addressing ressources on the web",
+   "title": "Addressing resources on the web",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Addressing-ressources-on-the-web-e314.md"
-  },
-  {
-   "id": "d14baec4-e9cc-6dbc-cf1a-375c2a82df17",
-   "title": "More complicated references",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/More-complicated-references-d14b.md"
+   "content-file": ".guides/content/Addressing-resources-on-the-web-e314.md"
   },
   {
    "id": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
    "title": "Images from the web",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Images-from-the-web-6396.md"
@@ -90,5 +84,8 @@
   }
  ],
  "theme": "charcoal",
- "scripts": []
+ "scripts": [
+  "https://code.jquery.com/jquery-1.11.3.min.js",
+  "/.guides/webdevcourse.js"
+ ]
 }
