@@ -11,5 +11,5 @@ A popup window will appear, then use `page2.html` as the filename, you will noti
 
 Once this is done, you can type anything in the html file. Just add at least a `h1` heading with "Page 2" as the content, so we can recognize that we are in this page, later when we'll use it.
 
-Now under the directory `01-adding-html-page` you should have two html files. `index.html` and `page2.html`. If it's the case, head to [next](#) chapter.
+Now under the directory `01-adding-html-page` you should have two html files. `index.html` and `page2.html`. If it's the case, head to [next](#) section.
 
