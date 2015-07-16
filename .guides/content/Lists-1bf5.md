@@ -4,7 +4,7 @@ Let's introduce some new html tags for lists and tables.
 
 Here is a simple list we would like to reproduce :
 
-<iframe  width="100%" height="30%" src="/lists/ex1.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="/lists/ex1.html" frameborder="0" allowfullscreen id="iframe_ex_1" onLoad="autoResize('iframe_ex_1');"></iframe>
 
 How do we do it ?
 
@@ -22,7 +22,7 @@ So every entry of the list must be wrapped in `<li>` and the whole thing must be
 
 Open the file `challenge1.html` which is in the left treeview and under the title `<h2> Here is a (unordered) list : </h2>` add a list with 3 items as shown here :
 
-<iframe  width="100%" height="30%" src="/lists/ex1.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="/lists/ex1.html" frameborder="0" allowfullscreen id="iframe_ex_2" onLoad="autoResize('iframe_ex_2');"></iframe>
 
 When you are satisfied with it :
 
@@ -36,14 +36,14 @@ The only difference being you use `<ol> </ol>` around your `<li>`'s and your lis
 
 Here is an example :
 
-<iframe  width="100%" height="30%" src="/lists/ex2.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="/lists/ex2.html" frameborder="0" allowfullscreen id="iframe_ex_3" onLoad="autoResize('iframe_ex_3');"></iframe>
 
 |||challenge
 # A (nested) ordered list.
 
 Open the file `challenge2.html` which is in the left treeview and under the title `<h2> Here is a nested ordered list : </h2>` add a list with 3 items and 3 nested items as shown here :
 
-<iframe  width="100%" height="40%" src="/lists/ex3.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="/lists/ex3.html" frameborder="0" allowfullscreen id="iframe_ex_4" onLoad="autoResize('iframe_ex_4');"></iframe>
 
 When you are satisfied with it :
 

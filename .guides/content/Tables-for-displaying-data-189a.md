@@ -48,11 +48,11 @@ Please preview the file `challenge1.html` in the left treeview (Right click on i
 
 The table in `challenge1.html` is broken and should look like this :
 
-<iframe  width="100%" height="22%" src="/tables/ex1.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="tables/ex1.html" frameborder="0" allowfullscreen id="iframe_ex_1" onLoad="autoResize('iframe_ex_1');"></iframe>
 
 Please fix it !
 
-*Hint* : You might want to consider using the "Beautify" feature of Codio on the html in `challenge1.html` in order to be able to see correctly the structure of it.
+*Hint* : You might want to consider using the "Beautify" feature of Codio on the html in `challenge1.html` in order to be able to see correctly the structure of table markup.
 
 {Check it!! | custom}(test-bui)
 
@@ -96,24 +96,10 @@ Please open `challenge1.html` again and add a header on the table.
 The table should look like this when it's done :
 
 
-<iframe id="iframe1"  width="100%" height="200px" src="/tables/ex2.html" frameborder="0" onLoad="autoResize('iframe1');"  allowfullscreen></iframe>
+<iframe width="100%" src="tables/ex2.html" frameborder="0" id="iframe_ex_2" onLoad="autoResize('iframe_ex_2');"  allowfullscreen></iframe>
 
 {Check it!! | custom}(test-bui)
 
 |||
 
-
-<script>
-function autoResize(id){
-    var newheight;
-    var newwidth;
-
-    if(document.getElementById){
-        newheight=document.getElementById(id).contentWindow.document .body.scrollHeight;
-        newwidth=document.getElementById(id).contentWindow.document .body.scrollWidth;
-    }
-
-    document.getElementById(id).height= (newheight) + "px";
-    document.getElementById(id).width= (newwidth) + "px";
-}
-</script>
+We will see more about tables in future units. Let's start the final section of this unit.

@@ -16,4 +16,4 @@ Let's think a bit, where is our `page2.html` located and where is our picture lo
 
 This brings us to how we describe on the web the location of ressources.
 
-Let's head to the [next](#) section to know more about this
+Let's head to the next section to know more about this.
