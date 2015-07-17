@@ -98,6 +98,17 @@
    "content-file": ".guides/content/Lists-1bf5.md"
   },
   {
+   "id": "1d34e7b9-2f86-4f54-1b2b-844dee8fbfd7",
+   "title": "Nested lists",
+   "files": [],
+   "layout": "",
+   "path": [
+    "tables"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Nested-lists-1d34.md"
+  },
+  {
    "id": "189abc27-8986-ef57-c737-e57a2d3a8a0e",
    "title": "Tables for displaying data",
    "files": [],
@@ -105,6 +116,14 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Tables-for-displaying-data-189a.md"
+  },
+  {
+   "id": "8e81a64e-f0b8-ecd0-e399-e2e41495d472",
+   "title": "Table headers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Table-headers-8e81.md"
   },
   {
    "id": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
