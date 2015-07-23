@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introduction-639b.md"
@@ -65,7 +65,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "3-cell-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Addressing-resources-on-the-web-e314.md"
@@ -73,7 +73,13 @@
   {
    "id": "9de6e4df-7d42-1d53-6e20-19d15c1ab646",
    "title": "Absolute and relative addresses",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Absolute-and-relative-addresses-9de6.md"
@@ -81,10 +87,15 @@
   {
    "id": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
    "title": "Images from the web",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "3-cell-tree",
    "path": [
-    "/image_galery"
+    "7-images-from-web"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Images-from-the-web-6396.md"
@@ -92,18 +103,51 @@
   {
    "id": "1bf5d1f-2503-bce6-1902-7ed47df959e2",
    "title": "Lists",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "lists/challenge1.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: lists/challenge1.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "lists"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Lists-1bf5.md"
   },
   {
    "id": "1d34e7b9-2f86-4f54-1b2b-844dee8fbfd7",
    "title": "Nested lists",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "lists/challenge2.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: lists/challenge2.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
    "layout": "",
    "path": [
-    "tables"
+    "lists"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Nested-lists-1d34.md"
@@ -111,9 +155,26 @@
   {
    "id": "189abc27-8986-ef57-c737-e57a2d3a8a0e",
    "title": "Tables for displaying data",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "tables/challenge1.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: tables/challenge1.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
    "layout": "",
-   "path": [],
+   "path": [
+    "tables"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Tables-for-displaying-data-189a.md"
   },
@@ -132,11 +193,41 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "nav/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: nav/index.html",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "nav/sections/about.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: nav/sections/about.html",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "nav/sections/contact.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: nav/sections/contact.html",
+     "panel": 1,
+     "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "/nav/"
+    "nav"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Final-challenge-ef2b.md"
