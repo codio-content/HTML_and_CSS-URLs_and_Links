@@ -12,7 +12,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introduction-639b.md"
+   "content-file": ".guides/content/Introduction-639b.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "73852001-2636-3802-a75f-f43afaf7a352",
@@ -38,7 +40,11 @@
     "01-adding-html-page"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Adding-a-new-html-page-7385.md"
+   "content-file": ".guides/content/Adding-a-new-html-page-7385.md",
+   "chapter": true,
+   "reset": [
+    "01-adding-html-page"
+   ]
   },
   {
    "id": "de471970-cb47-c981-135a-241c315b2109",
@@ -46,7 +52,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Adding-a-link-de47.md"
+   "content-file": ".guides/content/Adding-a-link-de47.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "6e35156d-2128-3515-9625-b0804ea613",
@@ -54,7 +62,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Allo-images---6e35.md"
+   "content-file": ".guides/content/Allo-images---6e35.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "e31417a2-b215-4986-6c92-a6f61f92aaab",
@@ -68,7 +78,9 @@
    "layout": "3-cell-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Addressing-resources-on-the-web-e314.md"
+   "content-file": ".guides/content/Addressing-resources-on-the-web-e314.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "9de6e4df-7d42-1d53-6e20-19d15c1ab646",
@@ -82,7 +94,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Absolute-and-relative-addresses-9de6.md"
+   "content-file": ".guides/content/Absolute-and-relative-addresses-9de6.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
@@ -98,7 +112,11 @@
     "7-images-from-web"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Images-from-the-web-6396.md"
+   "content-file": ".guides/content/Images-from-the-web-6396.md",
+   "chapter": true,
+   "reset": [
+    "7-images-from-web"
+   ]
   },
   {
    "id": "1bf5d1f-2503-bce6-1902-7ed47df959e2",
@@ -124,7 +142,11 @@
     "lists"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Lists-1bf5.md"
+   "content-file": ".guides/content/Lists-1bf5.md",
+   "chapter": true,
+   "reset": [
+    "lists"
+   ]
   },
   {
    "id": "1d34e7b9-2f86-4f54-1b2b-844dee8fbfd7",
@@ -150,7 +172,11 @@
     "lists"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Nested-lists-1d34.md"
+   "content-file": ".guides/content/Nested-lists-1d34.md",
+   "chapter": false,
+   "reset": [
+    "lists"
+   ]
   },
   {
    "id": "189abc27-8986-ef57-c737-e57a2d3a8a0e",
@@ -176,7 +202,11 @@
     "tables"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Tables-for-displaying-data-189a.md"
+   "content-file": ".guides/content/Tables-for-displaying-data-189a.md",
+   "chapter": true,
+   "reset": [
+    "tables"
+   ]
   },
   {
    "id": "8e81a64e-f0b8-ecd0-e399-e2e41495d472",
@@ -184,7 +214,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Table-headers-8e81.md"
+   "content-file": ".guides/content/Table-headers-8e81.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
@@ -230,7 +262,11 @@
     "nav"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Final-challenge-ef2b.md"
+   "content-file": ".guides/content/Final-challenge-ef2b.md",
+   "chapter": true,
+   "reset": [
+    "nav"
+   ]
   },
   {
    "id": "4eb843f3-ba12-f26d-2c06-d1461c307633",
@@ -238,7 +274,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Tags-summary-4eb8.md"
+   "content-file": ".guides/content/Tags-summary-4eb8.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "charcoal",
