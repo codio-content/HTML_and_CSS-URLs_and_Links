@@ -20,16 +20,4 @@ This code will look something like this :
 ```
 Now that you now how to get the code for a picture from flickr ... Let's do a little challenge
 
-|||challenge
-# Flickr Gallery
-First let's create a page called `photos.html` using the "html5" template from Codio.
-
-In the body of the page add a `<h1>` with the text "My photo gallery".
-
-Now select 3 pictures from Flickr that you like and get the code for each of those. 
-
-Then in the body, after your `<h1>` of the page you just created, paste the code from flickr for all of these pictures and add a little description in a `<p>` underneath each picture.
-
-{Check it!! | custom}(test-bui)
-|||
-
+{Check It!|assessment}(test-1186719088)

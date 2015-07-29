@@ -41,21 +41,7 @@ Then we close the row with `</tr>`
 And we do it once again for a new row.
 And then we close the table.
 
-|||Challenge
-# Fix this table!
 
-Please preview the file `challenge1.html` in the left treeview (Right click on it and choose "Preview static")
-
-The table in `challenge1.html` is broken and should look like this :
-
-<iframe width="100%" src="tables/ex1.html" frameborder="0" allowfullscreen id="iframe_ex_1" onLoad="autoResize('iframe_ex_1');"></iframe>
-
-Please fix it !
-
-*Hint* : You might want to consider using the "Beautify" feature of Codio on the html in `challenge1.html` in order to be able to see correctly the structure of table markup.
-
-{Check it!! | custom}(test-bui)
-
-|||
+{Check It!|assessment}(test-1070810640)
 
 

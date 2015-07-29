@@ -279,9 +279,10 @@
    "reset": []
   }
  ],
- "theme": "charcoal",
+ "theme": "light",
  "scripts": [
   "https://code.jquery.com/jquery-1.11.3.min.js",
-  ".guides/webdevcourse.js"
+  ".guides/js/boxname.js",
+  ".guides/js/test-6-absolute.js"
  ]
 }

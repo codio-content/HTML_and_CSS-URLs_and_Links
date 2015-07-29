@@ -31,17 +31,4 @@ When you have added your href, you can check the preview and click on the link. 
 
 Now that we are in page 2, we dont really have a mean to come back...
 
-|||challenge
-Add a link in `page2.html` pointing back to `index.html`
-
-Remember that the tag for an anchor is `<a>`
-We wants the following text for it : `Back to index`
-
-When you're done, press the button below to check your code.
-
-{Check it!! | custom}(test-bui)
-
-|||
-
-
-
+{Check It!|assessment}(test-2785969080)

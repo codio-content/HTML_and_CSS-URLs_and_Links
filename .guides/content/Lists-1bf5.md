@@ -16,19 +16,7 @@ In order to add items to the list, we need to use the `<li>` tag (as in <u>l</u>
 
 So every entry of the list must be wrapped in `<li>` and the whole thing must be wrapped in a `<ul>`
 
-
-|||challenge
-# A simple unordered list.
-
-Open the file `challenge1.html` which is in the left treeview and under the title `<h2> Here is a (unordered) list : </h2>` add a list with 3 items as shown here :
-
-<iframe width="100%" src="/lists/ex1.html" frameborder="0" allowfullscreen id="iframe_ex_2" onLoad="autoResize('iframe_ex_2');"></iframe>
-
-When you are satisfied with it :
-
-{Check it!! | custom}(test-bui)
-
-|||
+{Check It!|assessment}(test-551623780)
 
 Now let's see ordered list. Basically they are almost the same as unordered lists.
 

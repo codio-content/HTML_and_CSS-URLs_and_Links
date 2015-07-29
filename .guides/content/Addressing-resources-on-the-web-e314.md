@@ -22,53 +22,31 @@ hostname
 
 : the hostame is the name on the internet of the host (or server) we are trying to reach.
 
+Now let's have a look at a more complex url : 
 
-
-|||
-
-|||challenge
-# Challenge
-
-Here is a more complex url :
-
-<div id="MathDiv">
 $$
 {\sf
 \underbrace{\text{https}}_\text{protocol}
 \text{://} 
-\underbrace{\text{artist-chef.codio.io}}_\text{hostname}  \text{/}
+\underbrace{\text{codio.com}}_\text{hostname}  \text{/}
 \underbrace{\text{folder1/folder2}}_\text{subdirectory}  \text{/}
 \underbrace{\text{index.html}}_\text{filename} 
 }
 $$
-</div>
 
+In addition to the protocol and hostname we have 2 new parts :
 
-Let's imagine we have a web server running at <a href="#" class="current_hostname">#</a> and serving the files that are in the [left](#) treeview.
+subdirectory
 
-Create the necessary folders and files so that we view the following html page:
+: It's the subdirectory you want to access on the server.
 
-```html
-<!DOCTYPE html>
-<html>
+filename
 
-<head>
-    <title> My super page !</title>
-</head>
-
-<body>
-    <h1>This is my page</h1>
-    <p>It is located in folder1/folder2</p>
-    <p>On https://artist-chef.codio.io </p>
-    
-    <p>Thanks for visiting!</p>
-</body>
-
-</html>
-```
-
-{Check it!! | custom}(test-bui)
+: It's the name of the file you want to view inside the subdirectory.
 
 |||
+
+{Check It!|assessment}(test-3906376235)
+
 
 What we have just seen with full urls is the first way of referencing things on the web. It is called "absolute", in the next section we will explore this in more details.
