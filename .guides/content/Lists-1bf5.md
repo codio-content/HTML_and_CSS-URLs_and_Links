@@ -4,7 +4,8 @@ Let's introduce some new html tags for lists and tables.
 
 Here is a simple list we would like to reproduce :
 
-<iframe width="100%" src="/lists/ex1.html" frameborder="0" allowfullscreen id="iframe_ex_1" onLoad="autoResize('iframe_ex_1');"></iframe>
+![](.guides/img/iframe1.png)
+
 
 How do we do it ?
 
@@ -24,7 +25,7 @@ The only difference being you use `<ol> </ol>` around your `<li>`'s and your lis
 
 Here is an example :
 
-<iframe width="100%" src="/lists/ex2.html" frameborder="0" allowfullscreen id="iframe_ex_3" onLoad="autoResize('iframe_ex_3');"></iframe>
+![](.guides/img/iframe2.png)
 
 
 
