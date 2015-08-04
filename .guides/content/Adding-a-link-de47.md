@@ -2,8 +2,7 @@
 
 HTML offers many of the conventional publishing idioms for rich text and structured documents, but what separates it from most other markup languages is its features for hypertext and interactive documents. 
 
-This section introduces the link (or hyperlink, or Web link), the basic hypertext construct. A link is a connection from one Web resource to another. Although a simple concept, the link has been one of the primary forces driving the success of the Web.
-
+This section introduces the link (or hyperlink, or Web link), a basic hypertext construct. A link is a connection from one Web resource to another. Although a simple concept, the link has been one of the primary forces driving the success of the Web.
 
 ||| info
 
@@ -23,12 +22,12 @@ The `a` stands for anchor as it is the source anchor of the link.
 
 In your `index.html` file on the left, replace the text `We will replace this by our navigation !` inside the last `p` before the end of the `body` by our link `<a>Go to page 2</a>`
 
-If we just write this the browser cannot know what is the destination of the link, we said it should go to our `page2.html` so lets add a href attribute to our `a` tag like this `href="page2.html"`
+As it is now, the browser does not know what the destination of the link is, we said it should go to our `page2.html` so lets add a href attribute to our `a` tag like this `href="page2.html"`
 
 href stands for "hyper reference" : a reference to an object on the web.
 
 When you have added your href, you can check the preview and click on the link. It should bring you to your page 2.
 
-Now that we are in page 2, we dont really have a mean to come back...
+Now that we are in page 2, we dont really have a way to go back...
 
 {Check It!|assessment}(test-2785969080)
