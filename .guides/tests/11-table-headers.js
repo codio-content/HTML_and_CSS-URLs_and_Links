@@ -3,7 +3,7 @@ var cheerio = require('cheerio');
 
 
 var errors = [];
-var path = '/home/codio/workspace/tables/challenge1.html'
+var path = '/home/codio/workspace/11-table-headers/challenge1.html'
 
 if (!fs.existsSync(path)) {
     errors.push("challenge1.html doesnt exist")

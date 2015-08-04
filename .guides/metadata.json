@@ -25,25 +25,25 @@
      "action": "close"
     },
     {
-     "path": "/01-adding-html-page/index.html",
+     "path": "1-adding-html-page/index.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: /01-adding-html-page/index.html",
+     "path": "#preview: 1-adding-html-page/index.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "3-cell-tree",
    "path": [
-    "01-adding-html-page"
+    "1-adding-html-page"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Adding-a-new-html-page-7385.md",
    "chapter": true,
    "reset": [
-    "01-adding-html-page"
+    "1-adding-html-page"
    ]
   },
   {
@@ -62,7 +62,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Linking-to-images--6e35.md",
+   "content-file": ".guides/content/Linking-to-images-6e35.md",
    "chapter": false,
    "reset": []
   },
@@ -75,8 +75,10 @@
      "action": "close"
     }
    ],
-   "layout": "3-cell-tree",
-   "path": [],
+   "layout": "1-panel-tree",
+   "path": [
+    "5-addressing"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Addressing-resources-on-the-web-e314.md",
    "chapter": true,
@@ -105,9 +107,14 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "7-images-from-web/photos.html",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "2-panels-tree",
    "path": [
     "7-images-from-web"
    ],
@@ -127,25 +134,25 @@
      "action": "close"
     },
     {
-     "path": "lists/challenge1.html",
+     "path": "8-lists/challenge1.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: lists/challenge1.html",
+     "path": "#preview: 8-lists/challenge1.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "3-cell-tree",
    "path": [
-    "lists"
+    "8-lists"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Lists-1bf5.md",
    "chapter": true,
    "reset": [
-    "lists"
+    "8-lists"
    ]
   },
   {
@@ -157,25 +164,25 @@
      "action": "close"
     },
     {
-     "path": "lists/challenge2.html",
+     "path": "8-lists/challenge2.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: lists/challenge2.html",
+     "path": "#preview: 8-lists/challenge2.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "lists"
+    "8-lists"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Nested-lists-1d34.md",
    "chapter": false,
    "reset": [
-    "lists"
+    "8-lists"
    ]
   },
   {
@@ -187,36 +194,56 @@
      "action": "close"
     },
     {
-     "path": "tables/challenge1.html",
+     "path": "10-tables/challenge1.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: tables/challenge1.html",
+     "path": "#preview: 10-tables/challenge1.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "tables"
+    "10-tables"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Tables-for-displaying-data-189a.md",
    "chapter": true,
    "reset": [
-    "tables"
+    "10-tables"
    ]
   },
   {
    "id": "8e81a64e-f0b8-ecd0-e399-e2e41495d472",
    "title": "Table headers",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "11-table-headers/challenge1.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "11-table-headers/challenge1.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "11-table-headers"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Table-headers-8e81.md",
    "chapter": false,
-   "reset": []
+   "reset": [
+    "11-table-headers"
+   ]
   },
   {
    "id": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
@@ -227,32 +254,32 @@
      "action": "close"
     },
     {
-     "path": "nav/index.html",
+     "path": "12-nav/index.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: nav/index.html",
+     "path": "#preview: 12-nav/index.html",
      "panel": 1,
      "action": "open"
     },
     {
-     "path": "nav/sections/about.html",
+     "path": "12-nav/sections/about.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: nav/sections/about.html",
+     "path": "#preview: 12-nav/sections/about.html",
      "panel": 1,
      "action": "open"
     },
     {
-     "path": "nav/sections/contact.html",
+     "path": "12-nav/sections/contact.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: nav/sections/contact.html",
+     "path": "#preview: 12-nav/sections/contact.html",
      "panel": 1,
      "action": "open"
     }
@@ -282,7 +309,6 @@
  "theme": "light",
  "scripts": [
   "https://code.jquery.com/jquery-1.11.3.min.js",
-  ".guides/js/boxname.js",
   ".guides/js/test-6-absolute.js"
  ]
 }

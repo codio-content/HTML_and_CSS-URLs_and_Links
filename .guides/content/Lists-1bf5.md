@@ -17,6 +17,15 @@ In order to add items to the list, we need to use the `<li>` tag (as in <u>l</u>
 
 So every entry of the list must be wrapped in `<li>` and the whole thing must be wrapped in a `<ul>`
 
+Here is a full examples :
+
+```html
+<ul>
+    <li> List item 1</li>
+    <li> List item 2</li>
+</ul>
+```
+
 {Check It!|assessment}(test-551623780)
 
 Now let's see ordered list. Basically they are almost the same as unordered lists.

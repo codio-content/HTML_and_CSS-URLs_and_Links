@@ -3,7 +3,7 @@ var cheerio = require('cheerio');
 
 
 var errors = [];
-var basepath = '/home/codio/workspace/'
+var basepath = '/home/codio/workspace/5-addressing/'
 
 if (!fs.existsSync(basepath + "folder1/")) {
     errors.push("You didn't create folder1")    
