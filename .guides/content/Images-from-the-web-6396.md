@@ -1,4 +1,3 @@
-# Web photo gallery
 In this section we will do a little gallery with images from the web.
 
 We will first visit Flickr in order to find some pictures, using this link you can do a search on Flickr for "car" pictures with an unrestricted licence to use : https://www.flickr.com/search/?text=car&license=7%2C9%2C10
@@ -11,7 +10,7 @@ That should open a popup windown like this :
 
 ![](.guides/img/flickr_share2.png)
 
-You have to click first "HTML Embed" then copy paste the code that is given in 2.
+You have to click first "HTML Embed" then copy paste the code that is shown in Image 2.
 
 This code will look something like this :
 
