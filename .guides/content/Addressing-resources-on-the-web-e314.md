@@ -1,10 +1,8 @@
-# How to address resources on the web ?
-
 We need a way to be able to reference content from other folders on our server or even from other servers on the web. For this purpose URLs exists to describe the locations of these resources in a standard way.
 
 |||definition
 # URL : Uniform Resource Locator
-It is the standard way of writing the address or the location of a ressource on the internet.
+It is the standard way of writing the address or the location of a resource on the internet.
 
 Let's take a simple example :
 
