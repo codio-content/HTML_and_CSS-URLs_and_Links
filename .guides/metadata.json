@@ -229,7 +229,7 @@
      "action": "open"
     },
     {
-     "path": "11-table-headers/challenge1.html",
+     "path": "#preview: 11-table-headers/challenge1.html",
      "panel": 1,
      "action": "open"
     }
@@ -254,12 +254,12 @@
      "action": "close"
     },
     {
-     "path": "12-nav/index.html",
+     "path": "12-nav/sections/contact.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: 12-nav/index.html",
+     "path": "#preview: 12-nav/sections/contact.html",
      "panel": 1,
      "action": "open"
     },
@@ -274,25 +274,25 @@
      "action": "open"
     },
     {
-     "path": "12-nav/sections/contact.html",
+     "path": "12-nav/index.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: 12-nav/sections/contact.html",
+     "path": "#preview: 12-nav/index.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "nav"
+    "12-nav"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Final-challenge-ef2b.md",
    "chapter": true,
    "reset": [
-    "nav"
+    "12-nav"
    ]
   },
   {

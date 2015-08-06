@@ -14,7 +14,6 @@ if (!fs.existsSync(path)) {
         errors.push("3 th should be present in the begining of the table!");
     }
     
-    
 }
 
 

@@ -54,6 +54,11 @@ Then it would work and resolve to [http:/somesite.com/images/2.jpg]()
 
 One final challenge to verify that you understand all of this correctly.
 
+
+
+
+
+
 |||challenge 
 # Find the good urls
 
