@@ -1,5 +1,5 @@
 
-If we specify the hostname in our URLS like this http:/somesite.com and someone decides to change our hostname or to move the site to another server, the website will stop working properly, all the links will be broken.
+If we specify the hostname in our URLs like this http://somesite.com and someone decides to change our hostname or to move the site to another server, the website will stop working properly, all the links will be broken.
 
 In order to avoid that and to have less repetitions you can skip the protocol and hostname parts of URLs and just use the subdirectories and file names.
 
@@ -43,84 +43,14 @@ So the final url would be:
 
 But in this case it wouldn't work as there is no `images` folder inside `somefolder` and no file `2.jpg` either.
 
-How do we make it work? We have to introduce a new <u>special path components</u> `.` and `..` They have a special meaning : if you use `./images/2.jpg`
-It is exactly the same as `images/2.jpg` .. it means start from the current directory, so `.` represents the current directory.
+How do we make it work? We have to introduce a new <u>special path components</u> `.` and `..` They have a special meaning : 
 
-The `..` path means the "parent" directory, so if you write `../images/2.jpg` in a file which is located in `/folder1/folder2` the resulting path will be `/folder1/images/2.jpg` (We start from `folder2` but then the `..` goes to the parent directory which is `folder1` and then we add `/images/2.jpg`
+If you use `./images/2.jpg` it is exactly the same as `images/2.jpg` .. it means start from the current directory, so `.` represents the current directory.
 
-So if we want to refence the image `2.jpg` from our page [http:/somesite.com/somefolder/index.html]() and not using a forward / at the begining we would have to write: `<img src="../images/2.jpg">`
+If you write `../images/2.jpg` in a file which is located in `/folder1/folder2` the resulting path will be `/folder1/images/2.jpg` (We start from `folder2` but then the `..` goes to the parent directory which is `folder1` and then we add `/images/2.jpg` so `..` means the "parent" directory.
+
+So if we want to reference the image `2.jpg` from our page [http:/somesite.com/somefolder/index.html]() and not using a forward / at the begining we would have to write: `<img src="../images/2.jpg">`
 
 Then it would work and resolve to [http:/somesite.com/images/2.jpg]()
 
-One final challenge to verify that you understand all of this correctly.
-
-
-
-
-
-
-|||challenge 
-# Find the good urls
-
-
-Here is a folder structure :
-
-<img src=".guides/img/treeview_last_challenge.png" height="250">
-
-Imagine, it's hosted on the url : [http://mysite.com]()
-
-Here is a first example :
-In page1.html we have a `<a href="content/index.html">` What is the full url
-
-In this case it would be :
-
-`http://mysite.com` + `content/index.html`
-
-So `http://mysite.com/content/index.html`
-
-Do it now for the following ones :
-
-<hr>
-
-In page5.html we have a `<a href="content/index.html">` 
-
-What is the full url where this link will lead ?
-
-Write it down here :
-
-<input id="q1" type="text" style="width:100%;" />
-
-<hr>
-
-In page2.html we have a `<a href="../index.html">` 
-
-What is the full url where this link will lead ?
-
-Write it down here :
-
-<input id="q2" type="text" style="width:100%;" />
-
-<hr>
-
-In page3.html we have `<a href="/images/2.jpg">`
-
-What is the full url where this link will lead ?
-
-Write it down here :
-
-<input id="q3" type="text" style="width:100%;" />
-
-<hr>
-
-In page3.html we have `<a href="images/2.jpg">`
-
-What is the full url where this link will lead ?
-
-Write it down here :
-
-<input id="q4" type="text" style="width:100%;" />
-
-<a id="test6absolute" href="#"  class="codio-button codio-button-type-custom"> Check your answers!!
-</a>
-
-|||
+Please, head to the next section to test your understanding of these concepts.

@@ -3,7 +3,7 @@ var cheerio = require('cheerio');
 
 
 var errors = [];
-var path = '/home/codio/workspace/01-adding-html-page/page2.html'
+var path = '/home/codio/workspace/1-adding-html-page/page2.html'
 
 if (!fs.existsSync(path)) {
     errors.push("page2.html doesnt exist")

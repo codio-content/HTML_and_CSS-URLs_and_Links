@@ -101,6 +101,16 @@
    "reset": []
   },
   {
+   "id": "b072125f-f5d-d04-b3f2-81903d61953",
+   "title": "Find the good URLs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Find-the-good-URLs-b072.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
    "title": "Images from the web",
    "files": [
@@ -298,7 +308,13 @@
   {
    "id": "4eb843f3-ba12-f26d-2c06-d1461c307633",
    "title": "Tags summary",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Tags-summary-4eb8.md",

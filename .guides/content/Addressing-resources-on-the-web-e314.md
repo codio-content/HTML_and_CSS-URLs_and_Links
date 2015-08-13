@@ -46,19 +46,23 @@ filename
 
 # Your codio box URL
 
-Now let's learn how to find out what is your codio box url (Every codio box has its own url).
+Now let’s learn how to find out what your codio box url is (Every codio box has its own url).
 
-In order to do that, click on the "Project Index (static)" button in the top bar (Step 1).
+In order to do that, click on the "Project Index (static)" button in the top bar.
 
-Then a dropdown will open (Step 2) click on the first line "Project Index (static)".
+![](.guides/img/s4.png)
 
-| Step 1 | Step 2 |
-| :----: | :----: |
-| ![](.guides/img/s4.png) | ![](.guides/img/s5.png) |
+Then a dropdown will open.
+
+![](.guides/img/s5.png)
+
+- Make sure that the option "Inside Codio" is checked at the bottom, like in (1).
+- You can click on the first line "Project Index (static)" (2).
 
 When you click, it should open something similar to this :
 
 ![](.guides/img/s6.png)
+
 - In (1) you will see your box url. In this case its https://artist-chef.codio.io. It will be different in your case !
 - In (2) is a button that allows you to open the same page in another browser tab outside of the codio environment (full screen).
 
