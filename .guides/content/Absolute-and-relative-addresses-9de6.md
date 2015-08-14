@@ -43,11 +43,11 @@ So the final url would be:
 
 But in this case it wouldn't work as there is no `images` folder inside `somefolder` and no file `2.jpg` either.
 
-How do we make it work? We have to introduce a new <u>special path components</u> `.` and `..` They have a special meaning : 
+How do we make it work? We have to introduce new <u>special path components</u> `.` and `..` They have a special meaning : 
 
 If you use `./images/2.jpg` it is exactly the same as `images/2.jpg` .. it means start from the current directory, so `.` represents the current directory.
 
-If you write `../images/2.jpg` in a file which is located in `/folder1/folder2` the resulting path will be `/folder1/images/2.jpg` (We start from `folder2` but then the `..` goes to the parent directory which is `folder1` and then we add `/images/2.jpg` so `..` means the "parent" directory.
+If you use `../images/2.jpg` in a file which is located in `/folder1/folder2` the resulting path will be `/folder1/images/2.jpg` (We start from `folder2` but then the `..` goes to the parent directory which is `folder1` and then we add `/images/2.jpg` so `..` means the "parent" directory.
 
 So if we want to reference the image `2.jpg` from our page [http:/somesite.com/somefolder/index.html]() and not using a forward / at the begining we would have to write: `<img src="../images/2.jpg">`
 

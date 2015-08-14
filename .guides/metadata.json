@@ -13,7 +13,7 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introduction-639b.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -318,13 +318,22 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Tags-summary-4eb8.md",
-   "chapter": false,
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "f7f5a727-c0f9-2efa-c083-9736f22ab3a5",
+   "title": "That's all folks",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-f7f5.md",
+   "chapter": true,
    "reset": []
   }
  ],
  "theme": "light",
- "scripts": [
-  "https://code.jquery.com/jquery-1.11.3.min.js",
-  ".guides/js/test-6-absolute.js"
- ]
+ "scripts": [],
+ "lexikonTopic": ""
 }
