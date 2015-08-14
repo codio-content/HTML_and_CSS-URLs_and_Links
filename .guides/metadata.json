@@ -330,7 +330,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel",
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/That-s-all-folks-f7f5.md",
