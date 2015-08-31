@@ -22,11 +22,11 @@ The `a` stands for anchor as it is the source anchor of the link.
 
 In your `index.html` file on the left, replace the text `We will replace this by our navigation !` inside the last `p` before the end of the `body` by our link `<a>Go to page 2</a>`
 
-As it is now, the browser does not know what the destination of the link is, we said it should go to our `page2.html` so lets add a href attribute to our `a` tag like this `href="page2.html"`
+As it is now, the browser does not know what the destination of the link is, we said it should go to our `page2.html` . We need to tell the browser where we want to go, for that there is an attribute called `href` that we add on the `a` tag. href stands for "hyper reference" : a reference to an object on the web. You can add it anywhere on the opening tag. Lets add a href attribute to our `a` tag like this `href="page2.html"`
 
 When we are done, our link should look like this : `<a href="page2.html">Go to page 2</a>`
 
-href stands for "hyper reference" : a reference to an object on the web.
+
 
 When you have added your href, you can check the preview and click on the link. It should bring you to your page 2.
 

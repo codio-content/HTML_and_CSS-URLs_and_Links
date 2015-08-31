@@ -14,29 +14,54 @@ if (!fs.existsSync(path)) {
         errors.push("There is no h1 with text 'My photo gallery'");
     }
     
-    if ($("a:nth-of-type(1)").attr("href").indexOf("flickr.com") == -1) {
-         errors.push("First picture link seems wrong");
+    if ($("a:nth-of-type(1)").attr("href")) {
+        if ($("a:nth-of-type(1)").attr("href").indexOf("flickr.com") == -1) {
+            errors.push("First picture link seems wrong");
+        }    
+    } else {
+        errors.push("First picture link seems wrong");
     }
     
-    if ($("a:nth-of-type(1) img").attr("src").indexOf("flickr.com") == -1) {
-         errors.push("First picture seems wrong");
+    if ($("a:nth-of-type(1) img").attr("src")) {
+        if ($("a:nth-of-type(1) img").attr("src").indexOf("flickr.com") == -1) {
+             errors.push("First picture seems wrong");
+        }    
+    } else {
+        errors.push("First picture seems wrong");
     }
     
-    if ($("a:nth-of-type(2)").attr("href").indexOf("flickr.com") == -1) {
-         errors.push("Second picture link seems wrong");
+    if ($("a:nth-of-type(2)").attr("href")) {
+        if ($("a:nth-of-type(2)").attr("href").indexOf("flickr.com") == -1) {
+             errors.push("Second picture link seems wrong");
+        }    
+    } else {
+        errors.push("Second picture link seems wrong");
     }
     
-    if ($("a:nth-of-type(2) img").attr("src").indexOf("flickr.com") == -1) {
-         errors.push("Second picture seems wrong");
+    if ($("a:nth-of-type(2) img").attr("src")) {
+        if ($("a:nth-of-type(2) img").attr("src").indexOf("flickr.com") == -1) {
+             errors.push("Second picture seems wrong");
+        }
+    } else {
+        errors.push("Second picture seems wrong");
     }
     
-    if ($("a:nth-of-type(3)").attr("href").indexOf("flickr.com") == -1) {
-         errors.push("Third picture link seems wrong");
+    if ($("a:nth-of-type(3)").attr("href")) {
+        if ($("a:nth-of-type(3)").attr("href").indexOf("flickr.com") == -1) {
+             errors.push("Third picture link seems wrong");
+        }    
+    } else {
+        errors.push("Third picture link seems wrong");
     }
     
-    if ($("a:nth-of-type(3) img").attr("src").indexOf("flickr.com") == -1) {
-         errors.push("Third picture seems wrong");
+    if ($("a:nth-of-type(3) img").attr("src")) {
+        if ($("a:nth-of-type(3) img").attr("src").indexOf("flickr.com") == -1) {
+             errors.push("Third picture seems wrong");
+        }    
+    } else {
+        errors.push("Third picture seems wrong");
     }
+    
     
     if ($("p").length != 3){
         errors.push("There should be 3 paragraphs of text");

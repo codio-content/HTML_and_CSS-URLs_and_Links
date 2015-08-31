@@ -55,9 +55,16 @@ Solution :
 
 Now let’s see an ordered list. Basically they are almost the same as unordered lists.
 
-The only difference being you use `<ol> </ol>` around your `<li>`'s and your list will be numbered !
+The only difference being you use `<ol> </ol>` around your `<li>`'s and your list will be numbered ! Like this :
 
-Here is an example :
+```html
+<ol>
+    <li> List item 1</li>
+    <li> List item 2</li>
+</ol>
+```
+
+Which would look like :
 
 ![](.guides/img/iframe2.png)
 

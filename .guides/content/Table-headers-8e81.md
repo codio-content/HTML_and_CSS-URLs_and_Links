@@ -15,7 +15,7 @@ Now let's add a header to our table :
 </tr>
 </table>
 
-In order to do that we have added the following code  before our first tr in the previous code :
+In order to do that we have added the following code as the first row of our table:
 
 ```html
 <tr> 

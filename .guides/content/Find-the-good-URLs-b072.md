@@ -1,6 +1,6 @@
 Here is a folder structure :
 
-<img src=".guides/img/treeview_last_challenge.png" height="250">
+<img src=".guides/img/http_mysite_come.png">
 
 Imagine, it's hosted on the url : [http://mysite.com]()
 
@@ -13,8 +13,6 @@ In this case it would be :
 So `http://mysite.com/content/index.html`
 
 {Check It!|assessment}(fill-in-the-blanks-604390719)
-
-
 
 |||guidance
 
