@@ -42,7 +42,7 @@ if (!fs.existsSync(basepath + "folder1/folder2/index.html")) {
 
 
 if( errors.length <= 0 ) {
-    process.stdout.write('Well done!!!')
+    process.stdout.write('Well done!')
     process.exit(0);
 }
 else {

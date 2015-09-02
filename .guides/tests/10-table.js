@@ -19,7 +19,7 @@ if (!fs.existsSync(path)) {
 
 
 if( errors.length <= 0 ) {
-    process.stdout.write('Well done!!!')
+    process.stdout.write('Well done!')
     process.exit(0);
 }
 else {
