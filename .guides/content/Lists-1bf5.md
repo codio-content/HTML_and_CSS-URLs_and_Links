@@ -1,4 +1,4 @@
-Let's introduce some new html tags for lists and tables.
+Let's introduce some new HTML tags for lists and tables.
 
 # Ordered and unordered lists
 
@@ -17,7 +17,7 @@ In order to add items to the list, we need to use the `<li>` tag (as in <u>l</u>
 
 So every entry of the list must be wrapped in `<li>` and the whole thing must be wrapped in a `<ul>`
 
-Here is a full examples :
+Here is a full example :
 
 ```html
 <ul>
@@ -61,6 +61,7 @@ The only difference being you use `<ol> </ol>` around your `<li>`'s and your lis
 <ol>
     <li> List item 1</li>
     <li> List item 2</li>
+    <li> List item 3</li>
 </ol>
 ```
 

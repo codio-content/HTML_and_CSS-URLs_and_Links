@@ -86,7 +86,7 @@
   },
   {
    "id": "9de6e4df-7d42-1d53-6e20-19d15c1ab646",
-   "title": "Absolute and relative addresses",
+   "title": "Removing the hostname",
    "files": [
     {
      "path": "#tabs",
@@ -96,7 +96,37 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Absolute-and-relative-addresses-9de6.md",
+   "content-file": ".guides/content/Removing-the-hostname-9de6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "10f0711-b3f7-e013-abac-98dd7d1e46e",
+   "title": "Can you tell the difference ?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Can-you-tell-the-difference---10f0.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "62d89a3c-c8f9-9b6c-87b2-253e19f9493d",
+   "title": "Absolute paths",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Absolute-paths-62d8.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "4d56d4b9-12c4-e2be-66cd-7877696a68b0",
+   "title": "Relative path",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Relative-path-4d56.md",
    "chapter": false,
    "reset": []
   },

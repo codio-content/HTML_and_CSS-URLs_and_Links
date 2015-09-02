@@ -17,7 +17,7 @@ A link has two ends -- called anchors -- and a direction. The link starts at the
 # Adding a link
 
 Let's add a link from our `index.html` to our `page2.html`
-Let say we are going to call our link "Go to page 2". The html tag used for links is `<a> </a>`
+Let's say we are going to call our link "Go to page 2". The HTML tag used for links is `<a> </a>`
 The `a` stands for anchor as it is the source anchor of the link.
 
 In your `index.html` file on the left, replace the text `We will replace this by our navigation !` inside the last `p` before the end of the `body` by our link `<a>Go to page 2</a>`

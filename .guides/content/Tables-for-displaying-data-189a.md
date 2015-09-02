@@ -1,4 +1,4 @@
-In the previous section we have seen how to display ordered and ordered list.
+In the previous section we have seen how to display ordered and unordered list.
 
 Let's now see how to display data in a structured way using a table.
 
