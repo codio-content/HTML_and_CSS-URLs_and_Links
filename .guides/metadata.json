@@ -14,7 +14,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Introduction-639b.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "73852001-2636-3802-a75f-f43afaf7a352",
@@ -44,27 +45,36 @@
    "chapter": true,
    "reset": [
     "1-adding-html-page"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "de471970-cb47-c981-135a-241c315b2109",
    "title": "Adding a link",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "1-adding-html-page"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Adding-a-link-de47.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "6e35156d-2128-3515-9625-b0804ea613",
    "title": "Linking to images",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "1-adding-html-page"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Linking-to-images-6e35.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "e31417a2-b215-4986-6c92-a6f61f92aaab",
@@ -82,7 +92,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Addressing-resources-on-the-web-e314.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "9de6e4df-7d42-1d53-6e20-19d15c1ab646",
@@ -94,51 +105,70 @@
     }
    ],
    "layout": "1-panel",
-   "path": [],
+   "path": [
+    "5-addressing"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Removing-the-hostname-9de6.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "10f0711-b3f7-e013-abac-98dd7d1e46e",
    "title": "Can you tell the difference ?",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "5-addressing"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Can-you-tell-the-difference---10f0.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "62d89a3c-c8f9-9b6c-87b2-253e19f9493d",
    "title": "Absolute paths",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "5-addressing"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Absolute-paths-62d8.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "4d56d4b9-12c4-e2be-66cd-7877696a68b0",
    "title": "Relative path",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "5-addressing"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Relative-path-4d56.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "b072125f-f5d-d04-b3f2-81903d61953",
    "title": "Find the good URLs",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "5-addressing"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Find-the-good-URLs-b072.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
@@ -163,7 +193,8 @@
    "chapter": true,
    "reset": [
     "7-images-from-web"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "1bf5d1f-2503-bce6-1902-7ed47df959e2",
@@ -193,7 +224,8 @@
    "chapter": true,
    "reset": [
     "8-lists"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "1d34e7b9-2f86-4f54-1b2b-844dee8fbfd7",
@@ -223,7 +255,8 @@
    "chapter": false,
    "reset": [
     "8-lists"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "189abc27-8986-ef57-c737-e57a2d3a8a0e",
@@ -253,7 +286,8 @@
    "chapter": true,
    "reset": [
     "10-tables"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "8e81a64e-f0b8-ecd0-e399-e2e41495d472",
@@ -283,7 +317,8 @@
    "chapter": false,
    "reset": [
     "11-table-headers"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
@@ -333,7 +368,8 @@
    "chapter": true,
    "reset": [
     "12-nav"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "4eb843f3-ba12-f26d-2c06-d1461c307633",
@@ -349,7 +385,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Tags-summary-4eb8.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f7f5a727-c0f9-2efa-c083-9736f22ab3a5",
@@ -365,7 +402,8 @@
    "type": "markdown",
    "content-file": ".guides/content/That-s-all-folks-f7f5.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
