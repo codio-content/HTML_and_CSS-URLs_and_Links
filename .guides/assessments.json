@@ -1,0 +1,161 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-604390719",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [
+     "http://mysite.com/page5/content/index.html",
+     "http://mysite.com/index.html",
+     "http://mysite.com/images/2.jpg",
+     "http://mysite.com/page5/content/images/2.jpg"
+    ],
+    "text": [
+     "- In page5.html we have a `<a href=\"content/index.html\">` \n\nWhat is the full url where this link will lead ?\nWrite it here : ",
+     0,
+     "\n\n- In page2.html we have a `<a href=\"../index.html\">` \n\nWhat is the full url where this link will lead ?\nWrite it here : ",
+     0,
+     "\n\n- In page3.html we have `<a href=\"/images/2.jpg\">`\n\nWhat is the full url where this link will lead ?\nWrite it here : ",
+     0,
+     "\n\n- In page3.html we have `<a href=\"images/2.jpg\">`\n\nWhat is the full url where this link will lead ?\nWrite it here : ",
+     0
+    ]
+   },
+   "name": "Find the good urls !",
+   "instructions": "To check you understand all this correctly, answer the following questions ...",
+   "points": 8,
+   "showValues": false,
+   "text": "- In page5.html we have a `<a href=\"content/index.html\">` \n\nWhat is the full url where this link will lead ?\nWrite it here : <<<http://mysite.com/page5/content/index.html>>>\n\n- In page2.html we have a `<a href=\"../index.html\">` \n\nWhat is the full url where this link will lead ?\nWrite it here : <<<http://mysite.com/index.html>>>\n\n- In page3.html we have `<a href=\"/images/2.jpg\">`\n\nWhat is the full url where this link will lead ?\nWrite it here : <<<http://mysite.com/images/2.jpg>>>\n\n- In page3.html we have `<a href=\"images/2.jpg\">`\n\nWhat is the full url where this link will lead ?\nWrite it here : <<<http://mysite.com/page5/content/images/2.jpg>>>"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1070810640",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fix this table!",
+   "instructions": "The table in `challenge1.html` is broken and should look like this :\n\n![](.guides/img/iframe3.png)\n\nPlease fix it!\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/10-table.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1186719088",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Flickr gallery",
+   "instructions": "We have created a page called `photos.html` and it's open on the left\n\nIn the body of the page add a `<h1>` with the text \"My photo gallery\".\n\nNow select 3 pictures from Flickr that you like and get the code for each of those. \n\nThen in the body, after your `<h1>` of the page you just created, paste the code from flickr for all of these pictures and add a little description in a `<p>` underneath each picture.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/7-images-web.js",
+   "points": 4
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1614308083",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Adding a header to our table",
+   "instructions": "Add a header to the table. \n\nThe table should look like this when it's done :\n\n![](.guides/img/iframe5.png)",
+   "command": "bash .guides/tests/exec.sh .guides/tests/11-table-headers.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1721090447",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "A nested (ordered) list",
+   "instructions": "See the file `challenge2.html` which is in the left Filetree panel and under the title `<h2> Here is a nested ordered list : </h2>` add a list with 3 items and 3 nested items as shown here :\n\n![](.guides/img/iframe4.png)\n\nWhen you are satisfied with it :",
+   "command": "bash .guides/tests/exec.sh .guides/tests/9-nested-lists.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2122522452",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "A real navigation",
+   "instructions": "We will create a navigation menu for our website.\n\nThis website consists of 3 pages:\n1. The home page (index.html)\n2. The about page (sections/about.html)\n3. The contact page (sections/contact.html)\n\nIn the Filetree panel on the left, there is a folder called \"12-nav\", which contains all the files for this challenge.\n\nYou need to complete the navigation on the index page so that the links to the about and contact pages work.\n\nThe about and contact pages have a piece of code that looks like:\n\n```html\n<!-- put here your nav below -->\n```\n\nWhen your `index.html` navigation is working, copy it and paste it into the `contact.html` and `about.html` pages. Now modify the navigation on these pages so that it works as expected. Make sure that all the URLs between the pages and the navigation images are correct.\n\nAttention : You are only allowed to use relative paths !",
+   "command": "bash .guides/tests/exec.sh .guides/tests/12-final.js",
+   "points": 10
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2785969080",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Our first link",
+   "instructions": "Add a link in `page2.html` pointing back to `index.html`\n\nRemember that the tag for an anchor is `<a>`\nWe want the following text for it : `Back to index`\n\nWhen you're done, press the button below to check your code.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/3-adding-link.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3906376235",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Create the folders and files",
+   "instructions": "As you may see on the left we are in the folder `5-addressing`\n\nWe ask you to create the necessary folders and files inside this folder, so that we will find at the url :\n\n`YOUR_BOX_URL/5-addressing/folder1/folder2/index.html` the following html page:\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n    <title> My super page !</title>\n</head>\n<body>\n    <h1>This is my page</h1>\n    <p>It is located in folder1/folder2</p>\n    <p>On my codio box</p>\n    <p>Thanks for visiting!</p>\n</body>\n</html>\n```\n\nWhere `YOUR_BOX_URL` has to be replaced by your actual codio box url.\nIn the screenshot above it was https://artist-chef.codio.io/ so in this case the above html code would be at : https://artist-chef.codio.io/5-addressing/folder1/folder2/index.html\n\n(Remember the box url will be different for you !)\n\nYou can try clicking this [link](/5-addressing/folder1/folder2/index.html) in order to verify. If it works correctly you should land on a page with the html content from above !\n\nGood luck !",
+   "command": "bash .guides/tests/exec.sh .guides/tests/5-addressing.js",
+   "points": 5
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-551623780",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "A simple unordered list",
+   "instructions": "In the file `challenge1.html` which is the top left panel, under the title `<h2> Here is a (unordered) list : </h2>` add a list with 3 items as shown here :\n\n![](.guides/img/iframe1.png)\n\nWhen you are satisfied with it :",
+   "command": "bash .guides/tests/exec.sh .guides/tests/8-lists.js",
+   "points": 1
+  }
+ }
+]
