@@ -38,9 +38,15 @@ The individual solution of each student might varies but here is an example :
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/miwok/11085448856/in/photolist-hTzPJy-aQwySt-oBhE5M-cV8N69-7GA8BB-7vxEWo-7vxEM1-bCMZNH-aBJDAP-s4dxPR-dhZq55-ah2cjo-cVHdow-c8uhES-ahfgNt-pJsTfh-fgYQbA-cE7TuN-e4ro17-sE6FGD-mpB7aR-fQ8kCo-sHfY9q-wGctUd-fJupQH-b7bGpV-fPQTAc-apo6Jq-ecAC47-ouJi2q-shbssh-w6ebHZ-6r9V59-ffdMDU-6r5JRr-wWn7Lp-sqTin6-rEX6bR-rK3qkX-w5PztR-w5bpTj-v8WUqH-w5b8kQ-w5NMrv-e9B45Z-nQFnXc-bqCWTB-fJv5yX-oTLq72-v8NRdY" title="Citroën 2CV"><img src="https://farm3.staticflickr.com/2807/11085448856_e03b17df3a_z.jpg" width="640" height="361" alt="Citroën 2CV"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<p>Explanation Text</p>
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/statelibraryofnsw/6456366655/in/photolist-hTzPJy-aQwySt-oBhE5M-cV8N69-7GA8BB-7vxEWo-7vxEM1-bCMZNH-aBJDAP-s4dxPR-dhZq55-ah2cjo-cVHdow-c8uhES-ahfgNt-pJsTfh-fgYQbA-cE7TuN-e4ro17-sE6FGD-mpB7aR-fQ8kCo-sHfY9q-wGctUd-fJupQH-b7bGpV-fPQTAc-apo6Jq-ecAC47-ouJi2q-shbssh-w6ebHZ-6r9V59-ffdMDU-6r5JRr-wWn7Lp-sqTin6-rEX6bR-rK3qkX-w5PztR-w5bpTj-v8WUqH-w5b8kQ-w5NMrv-e9B45Z-nQFnXc-bqCWTB-fJv5yX-oTLq72-v8NRdY/" title="Woman with her new Maxwell car and dog, Shoalhaven, ca. 1920 / photographer Cyrus S. Moss"><img src="https://farm8.staticflickr.com/7028/6456366655_32597d1d7d_z.jpg" width="640" height="471" alt="Woman with her new Maxwell car and dog, Shoalhaven, ca. 1920 / photographer Cyrus S. Moss"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<p>More Explanation Text</p>
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/usnationalarchives/4272498450/in/photolist-hTzPJy-aQwySt-oBhE5M-cV8N69-7GA8BB-7vxEWo-7vxEM1-bCMZNH-aBJDAP-s4dxPR-dhZq55-ah2cjo-cVHdow-c8uhES-ahfgNt-pJsTfh-fgYQbA-cE7TuN-e4ro17-sE6FGD-mpB7aR-fQ8kCo-sHfY9q-wGctUd-fJupQH-b7bGpV-fPQTAc-apo6Jq-ecAC47-ouJi2q-shbssh-w6ebHZ-6r9V59-ffdMDU-6r5JRr-wWn7Lp-sqTin6-rEX6bR-rK3qkX-w5PztR-w5bpTj-v8WUqH-w5b8kQ-w5NMrv-e9B45Z-nQFnXc-bqCWTB-fJv5yX-oTLq72-v8NRdY/" title="After Hours in a Gasoline Line a Driver Could Arrive at the Pumps and Find Out That the Car Ahead of Him Was the Last to Get Fuel. So Many Stations, Such as This One in Portland, Began Using a &quot;Sorry&quot; Sign on the Last Car to Get Gas 12/1973"><img src="https://farm5.staticflickr.com/4056/4272498450_c40495d830_z.jpg" width="640" height="435" alt="After Hours in a Gasoline Line a Driver Could Arrive at the Pumps and Find Out That the Car Ahead of Him Was the Last to Get Fuel. So Many Stations, Such as This One in Portland, Began Using a &quot;Sorry&quot; Sign on the Last Car to Get Gas 12/1973"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<p>And More Explanation Text</p>
 
 </body>
 </html>
