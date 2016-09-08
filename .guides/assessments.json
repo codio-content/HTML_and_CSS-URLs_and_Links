@@ -130,13 +130,9 @@
   "type": "test",
   "taskId": "test-3906376235",
   "source": {
-   "showName": true,
-   "answers": [],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
    "name": "Create the folders and files",
+   "showName": true,
+   "arePartialPointsAllowed": false,
    "instructions": "As you may see on the left we are in the folder `5-addressing`\n\nWe ask you to create the necessary folders and files inside this folder, so that we will find at the url :\n\n`YOUR_BOX_URL/5-addressing/folder1/folder2/index.html` the following html page:\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n    <title> My super page !</title>\n</head>\n<body>\n    <h1>This is my page</h1>\n    <p>It is located in folder1/folder2</p>\n    <p>On my codio box</p>\n    <p>Thanks for visiting!</p>\n</body>\n</html>\n```\n\nWhere `YOUR_BOX_URL` has to be replaced by your actual codio box url.\nIn the screenshot above it was https://artist-chef.codio.io/ so in this case the above html code would be at : https://artist-chef.codio.io/5-addressing/folder1/folder2/index.html\n\n(Remember the box url will be different for you !)\n\nYou can try clicking this [link](/5-addressing/folder1/folder2/index.html) in order to verify. If it works correctly you should land on a page with the html content from above !\n\nGood luck !",
    "command": "bash .guides/tests/exec.sh .guides/tests/5-addressing.js",
    "points": 5
