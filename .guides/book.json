@@ -1,0 +1,126 @@
+{
+ "name": "HTML_and_CSS-URLs_and_Links",
+ "children": [
+  {
+   "title": "Introduction",
+   "id": "639b6638-5777-3b41-53fe-9b71c7a92b61",
+   "pageId": "639b6638-5777-3b41-53fe-9b71c7a92b61",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Adding a new html page",
+   "id": "73852001-2636-3802-a75f-f43afaf7a352",
+   "pageId": "73852001-2636-3802-a75f-f43afaf7a352",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Adding a link",
+     "id": "de471970-cb47-c981-135a-241c315b2109",
+     "pageId": "de471970-cb47-c981-135a-241c315b2109",
+     "type": "page"
+    },
+    {
+     "title": "Linking to images",
+     "id": "6e35156d-2128-3515-9625-b0804ea613",
+     "pageId": "6e35156d-2128-3515-9625-b0804ea613",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Addressing resources on the web",
+   "id": "e31417a2-b215-4986-6c92-a6f61f92aaab",
+   "pageId": "e31417a2-b215-4986-6c92-a6f61f92aaab",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Removing the hostname",
+     "id": "9de6e4df-7d42-1d53-6e20-19d15c1ab646",
+     "pageId": "9de6e4df-7d42-1d53-6e20-19d15c1ab646",
+     "type": "page"
+    },
+    {
+     "title": "Can you tell the difference ?",
+     "id": "10f0711-b3f7-e013-abac-98dd7d1e46e",
+     "pageId": "10f0711-b3f7-e013-abac-98dd7d1e46e",
+     "type": "page"
+    },
+    {
+     "title": "Absolute paths",
+     "id": "62d89a3c-c8f9-9b6c-87b2-253e19f9493d",
+     "pageId": "62d89a3c-c8f9-9b6c-87b2-253e19f9493d",
+     "type": "page"
+    },
+    {
+     "title": "Relative path",
+     "id": "4d56d4b9-12c4-e2be-66cd-7877696a68b0",
+     "pageId": "4d56d4b9-12c4-e2be-66cd-7877696a68b0",
+     "type": "page"
+    },
+    {
+     "title": "Find the good URLs",
+     "id": "b072125f-f5d-d04-b3f2-81903d61953",
+     "pageId": "b072125f-f5d-d04-b3f2-81903d61953",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Images from the web",
+   "id": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
+   "pageId": "6396dc3-7d80-b32-9e03-ba5ef3dc23cd",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Lists",
+   "id": "1bf5d1f-2503-bce6-1902-7ed47df959e2",
+   "pageId": "1bf5d1f-2503-bce6-1902-7ed47df959e2",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Nested lists",
+     "id": "1d34e7b9-2f86-4f54-1b2b-844dee8fbfd7",
+     "pageId": "1d34e7b9-2f86-4f54-1b2b-844dee8fbfd7",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Tables for displaying data",
+   "id": "189abc27-8986-ef57-c737-e57a2d3a8a0e",
+   "pageId": "189abc27-8986-ef57-c737-e57a2d3a8a0e",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Table headers",
+     "id": "8e81a64e-f0b8-ecd0-e399-e2e41495d472",
+     "pageId": "8e81a64e-f0b8-ecd0-e399-e2e41495d472",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Final challenge",
+   "id": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
+   "pageId": "ef2ba9ff-75e-d29-dfa5-3a847a3fd12b",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Tags summary",
+   "id": "4eb843f3-ba12-f26d-2c06-d1461c307633",
+   "pageId": "4eb843f3-ba12-f26d-2c06-d1461c307633",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "That's all folks",
+   "id": "f7f5a727-c0f9-2efa-c083-9736f22ab3a5",
+   "pageId": "f7f5a727-c0f9-2efa-c083-9736f22ab3a5",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
